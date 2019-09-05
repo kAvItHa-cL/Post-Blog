@@ -1,0 +1,17 @@
+:host
+{
+  margin-top : 1rem;
+  display: block;
+}
+
+.info-text{
+   text-align :center;
+}
+
+mat-spinner{
+  margin :auto;
+}
+
+mat-paginator{
+  margin : 1rem;
+}
